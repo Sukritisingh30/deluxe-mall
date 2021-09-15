@@ -9,7 +9,7 @@
     color: black;
     display: flex;
     background-color: rgb(236, 235, 230);
-    position: sticky;
+    position: fixed;
 }
 
 
